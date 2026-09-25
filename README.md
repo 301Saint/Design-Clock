@@ -197,7 +197,7 @@ No account, login, subscription or cloud. Everything lives in one SQLite file on
 On this page, click **Code → Download ZIP** and unzip it somewhere permanent, for example `Documents\DesignClock`. Or clone it:
 
 ```bash
-git clone https://github.com/<your-username>/design-clock.git
+git clone https://github.com/301Saint/design-clock.git
 ```
 
 ### 2. Run setup (once per computer)
